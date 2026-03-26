@@ -23,3 +23,5 @@
 ## Gallery
 
 Section **"Gallery"**
+
+[Primly](https://primly.wejkey.org) | [Discord](https://discord.wejkey.org)
